@@ -1,0 +1,15 @@
+{
+  "messageType": "REQUEST_MESSAGE",
+  "transactionID": "e0d09e0f-d84a-4061-b771-422a70ce28da",
+  "componentID": "",
+  "timestamp": "2022-09-09 09:22:10:00",
+  "endpoint": "/medic/create",
+  "data": [
+    {
+      "name": "Jesus",
+      "lastName": "Rodriguez2",
+      "birthdate": "1978-01-30",
+      "age": 20
+    }
+  ]
+}
